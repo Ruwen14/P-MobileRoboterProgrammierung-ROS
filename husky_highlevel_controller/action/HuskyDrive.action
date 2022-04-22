@@ -1,0 +1,7 @@
+# goal definition
+float64 min_distance
+---
+# result definition
+---
+# feedback
+float64 distance
